@@ -26,7 +26,7 @@ A Node.js tool to verify wallet address eligibility for ZkSync airdrops. This sc
 
 2. Navigate to the project directory:
     ```bash
-    cd zk-sync-airdrop-checker
+    cd ZKsync-Fast-Airdrop-Checker
     ```
 
 3. Install the dependencies:
